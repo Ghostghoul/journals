@@ -1,0 +1,11 @@
+On monday I started on the code which I had compiled from different examples 
+of 8x8 led pong games. I used the code as a basis for the rest of the code I 
+would go on to use. I then started on the code of the game by declaring
+the variables and adding a patttern for each reaction the player does.
+ I then started on the UI of the game and how the scores in the game would
+be to show to the players. After that I added the game over code so that game
+finished it reaches a the winning score. I also added the restart of the game 
+once someone won.
+
+I will try to cover the arduino so that only the screen and the joystick show, 
+and add a battery when trying to add the visual appeals to the project. 

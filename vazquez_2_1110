@@ -1,0 +1,14 @@
+I learned that variables are a scalar quantity withing the code, it is used 
+to set value to strings of program which need an indicated amount to be 
+precise. Loops in coding were used to reproduce the line of code infinitely, 
+I used it to repeat the same executed start screen. I used "for" statement
+to operate the collection of pins declaring the variable 'int" in the parethe-
+sis adding the initializer and the test with either an increment or decrement.
+
+The prototyping process requires a lot attention to detail of the working
+ project, due to varying amount of troubleshooting required at points. Along
+with the prototype comes the transition of image to PCB this creates problems
+when not enough information is giving in the connecting the components, or 
+there lack of knowledge of how the components attribute to their specific 
+location.(lack of background research)  
+
