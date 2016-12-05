@@ -1,0 +1,19 @@
+ An object is an instation of a class, for example could be you as a person.
+A variable is a reference to an object or a primitive like an int.
+
+A class refers to the written piece of static code which is used to define it
+ the code does not change when executed. While the object is the instance of 
+a class, objects are created and eventually destroyed, and while the objects
+are still working the properties are changed signficantly.
+
+To instatiate an object is the same as instantiating a class.
+
+public class {
+    public int x = 0;
+    public int y = 0;
+public () { 
+    x = a;
+    y = b;
+  }
+}
+

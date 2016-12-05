@@ -1,0 +1,23 @@
+1.  To create a method you need to create a static piece of code that 
+can be called on at any time.
+
+ // public static void main(String[] args) {
+
+      Student joe = new Student();
+      joe.setName("Mighty Joe");
+      joe.getName();
+          System.out.println(joe.getName());
+
+
+
+2.  To return you void set and type return the specific phrase or number.
+
+void set
+String getSaying(String somethingcool);{
+  return this.saying = "do homework";
+}
+
+
+ 3.  To pass specific variable to methods you use parameters/(args). This 
+enables function methods to change value of the parameters, we can pass the 
+reference with "ref" or "out".
