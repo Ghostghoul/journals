@@ -1,0 +1,21 @@
+ public class Vazquez_sampleArray {
+
+              public static void main(String []args) {
+
+                char [][] landscape= new char[10][10];
+
+                landscape[0][5] = 'D';
+                landscape[0][10] = '2';
+
+                for (int i = 0; i <= landscape[0].length - 1; i++) {
+                  for (int j = 0; j <= landscape[1].length - 2; j++) {
+                    if (landscape[i][j] == 0 ) {
+                      System.out.print("."); }
+                    else {
+                      System.out.print(landscape[i][j]);
+                         }
+                       }
+                   System.out.println("|");
+                   }
+                 }
+               }

@@ -1,5 +1,6 @@
-An array could contain objects, integers, character, etc. it can be anything
-that is has a defined data type. The arrays elements must have the same data
-type; it can have different values. The array is stored wtih no gaps between
-the elements in the memory. The arrays can have more than one dimension,
-a vector is one dimensional, a matrix is two dimensional.
+An array is a numbered list that could contain objects, integers, 
+character, etc. it can be anything that is has a defined data type. The 
+arrays elements must have the same data type; it can have different 
+values. The array is stored wtih no gaps between the elements in the 
+memory. The arrays can have more than one dimension, a vector is one 
+dimensional, a matrix is two dimensional.
