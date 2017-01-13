@@ -1,0 +1,11 @@
+We use arrays in the java to create traps and the hero in the game. The 
+traps are meant to be obstacles in the hero's way to create a challenge. 
+Using the for loop, we put in the parentheses the coordinates parameters 
+
+
+(int i = 0; i< 7; i++){ minefield[i] = new trap (randy.nextInt(10), 
+randy.nextInt(10));
+
+
+Using the array of traps and our Hero class array we are able to depict the 
+traps and character on screen.

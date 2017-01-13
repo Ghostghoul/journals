@@ -1,0 +1,6 @@
+An IDE consists of a source code editor, build tools and a debugger, 
+most have intelligent code completion.
+
+IDE stands for "intergrated development environment"
+
+We are going to use Netbeans to create java desktop applications.
