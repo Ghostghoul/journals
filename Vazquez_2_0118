@@ -1,0 +1,39 @@
+1.public class Vazquez_Arraygame {
+
+2 public static void main(String []args) {
+
+3.static class Hero {
+
+4.int getX(){
+        return this.x;
+
+ void moveSouth(){
+       if (this.y < 8){this.y += 1;}
+
+5.static class Trap {
+
+6.int getY(){
+        return this.y;
+    }      
+    char getSymbol(){
+        return this.symbol;
+
+
+7.public class Vazquez+_2_sample {                   //oac begins here
+public static void main (String[] args){            //main begins here
+static class hero {                                // hero begins here
+void goHome(){
+}                                                //goHome ends here
+}                                               // hero ends here
+static class trap {                            //trap begins 
+}                                             // trap ends here
+}                                            // oac ends here
+ 
+
+
+8. To check where the curly brace ends you just highlight and in it shows you
+in return. We use this to make sure we don't forget to close the curly braces.
+
+9. We use the trap [] minefield before main to have it is accessible to the 
+classes, main is not public. 
+ 
