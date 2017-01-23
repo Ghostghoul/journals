@@ -1,0 +1,9 @@
+The game has static Trap [] minefield before main because it can be 
+accessed by the rest of code, if not before main then the classes that 
+pull traps will come out with errors because the trap is private. I move 
+the hero with;
+
+ bucky.move(answer); landscape[bucky.getY()][bucky.getX()] = bucky.getSymbol();
+ 
+Then you program where the character move by inputting the method under 
+the hero class.
