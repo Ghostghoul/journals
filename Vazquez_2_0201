@@ -1,0 +1,7 @@
+Abstraction is the use of different code to create new code. For example 
+we created walls, treasure, and projectile. For the walls we created a 
+class that moved randomly and blocked the player; using the code of 
+minefield. for treasure we created a similiar minefield with the 
+exception that it gives you something, for my treasure I made it give 
+you an extra heart. And for Projectiles you create a method similiar to 
+check for trap.
