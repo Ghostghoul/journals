@@ -1,0 +1,12 @@
+Methods are made to create actions that can be called back throughout 
+the code, this can be useful in games were an action is called to main 
+repititively in different sequences.
+
+Programming graphics can be difficult because there are many pieces code 
+that need to processed to create an image.
+
+A java class library are a set of loadable libraries that can run all at 
+one time, they are not dependent on a specifi operating system.
+
+To import a java library you add the library to the path of program and 
+then add at the top of the program 'import static util random'

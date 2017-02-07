@@ -1,0 +1,9 @@
+A java class has properties and behaviors defined by its own class. 
+Within the class, fields and methods are used to describe the actions of 
+the object.
+
+A javafx class includes a class that extends application, this overruns 
+methods that execute specific code.
+
+init() would be a method to start, as well as stop() or start(), as well 
+as getparameters().
