@@ -1,0 +1,13 @@
+An object with an abstract background.
+
+I plan to use a circle, triangle, square, oval and arc, with varying colors.
+
+For loops would be used to make the background, and repeat a shape to 
+make it abstract.
+
+Just like the background random would be impremented into the color of 
+the shape so that colors are different and pop out, maybe different 
+nuances of a color; making it a theme.
+
+An if statement could be used in the code to prevent the background from 
+interfering from appearing above the main focus of the object.
