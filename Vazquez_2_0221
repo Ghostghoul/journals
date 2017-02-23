@@ -1,0 +1,13 @@
+To add an object to an ArrayLists, you import a java list, then declare 
+your object as a public class and write the object under the main.
+
+To loop through elements you use if statements, which are used to check 
+for boundaries with integers and booleans.
+
+We extend in java due to the usefulness of methods in a class to another 
+class. We do this by adding "extend", helps reduce the amount of code 
+that we would need to rewrite.
+
+My game will be made up of a main block attempting to traverse a course 
+with enemies in its path. possibly a frogger sort of scenario; subject 
+to change.
