@@ -1,0 +1,32 @@
+The static in the code snippet allows us to call the method against the 
+class.
+ 
+The angular brackets makes an ArrayList of BadBlocks, we do this to 
+specify what class the list contains.
+
+We use an ArrayList to make it easier on us, so that instead of making 
+methods repetitively, we create one list that has all the blocks we 
+desire.
+
+The for loop checks if i equals 0 and is less than the canvas height, 
+setting boundaries.
+
+With the boundary set the i then makes 35 blocks on the canvas within 
+the boundaries.
+
+For loop adds a(n) badblock b, declaring it to be the same as badblockz.
+
+While the root is to recall the local getChildren and then add second 
+set of badblocks.
+
+The badblock class was created to name the enemy/rectangle, while 
+setting other possible movements to the class.
+
+extends tells the java class that it has the same properties as the 
+rectangle class.
+
+The booleans movedown is used to make the block movedown once the 
+program starts, it then bounces back because there is a boundary and is 
+not moving down.
+
+The getter and setters are public and private
