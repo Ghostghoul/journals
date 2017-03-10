@@ -17,7 +17,7 @@ the boundaries.
 For loop adds a(n) badblock b, declaring it to be the same as badblockz.
 
 While the root is to recall the local getChildren and then add second 
-set of badblocks.
+set of badblocks. The root makes the blocks visible in the executable window.
 
 The badblock class was created to name the enemy/rectangle, while 
 setting other possible movements to the class.
@@ -29,4 +29,10 @@ The booleans movedown is used to make the block movedown once the
 program starts, it then bounces back because there is a boundary and is 
 not moving down.
 
-The getter and setters are public and private
+The getter and setters are public and private, we could add a getter and 
+setter in which a block can check if it collides with another blocks, 
+thus not allowing it go through the block; with ifCollisionDetected.
+
+We add the getters and setters to create encapsulation through setting a 
+method and then getting it later on in the code making it easier to 
+create multiple alterations to a program.
